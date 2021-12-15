@@ -1,0 +1,8 @@
+﻿  UnitTests.cpp
+C:\Users\DASHA\source\repos\Курсовая работа\Find_result.h(30,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DASHA\source\repos\Курсовая работа\Find_result.h(32,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DASHA\source\repos\Курсовая работа\Find_result.h(89,10): warning C4101: unary_sign: неиспользованная локальная переменная
+C:\Users\DASHA\source\repos\Курсовая работа\Find_result.h(649,9): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\DASHA\source\repos\UnitTests\UnitTests.cpp(143,11): warning C4101: n1: неиспользованная локальная переменная
+C:\Users\DASHA\source\repos\UnitTests\UnitTests.cpp(126,11): warning C4101: n: неиспользованная локальная переменная
+  UnitTests.vcxproj -> C:\Users\DASHA\source\repos\Курсовая работа\Debug\UnitTests.dll
